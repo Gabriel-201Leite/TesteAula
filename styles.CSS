@@ -1,0 +1,28 @@
+#header {
+    background-color:chocolate;
+    color:white;
+    padding: 9px;
+    text-align:center;
+    float:center;
+}
+
+#menu {
+    float:left;
+    width:20%;
+    height:390px;
+    background-color:chocolate;
+}
+
+#main {
+    margin-left:20%;
+    height:390px;
+    padding: 9px;
+}
+
+#footer {
+    background-color:chocolate;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding: 9px;
+}
